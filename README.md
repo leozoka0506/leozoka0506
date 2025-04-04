@@ -20,7 +20,7 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou f
 ## 📌 Projetos Recentes
 
 🔹 [Estudos de Desenvolvimento WEB](https://github.com/leozoka0506/html-udemy-projects)  
-🔹 [Projeto de API para eventos](https://github.com/leozoka0506/simoldes-app)  
+🔹 [Projeto de API para eventos](https://github.com/leozoka0506/SiteEventos)  
 🔹 [Projeto Aplicativo Simoldes](https://github.com/leozoka0506/simoldes-app)  
 
 ---
