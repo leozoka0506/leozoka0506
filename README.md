@@ -17,12 +17,11 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou f
 - **Banco de Dados:** MySQL, PostgreSQL, MongoDB   
 
 ---
-
 ## 📌 Projetos Recentes
-🔹 [Estudos de Desenvolvimento WEB][link-do-repositorio]](https://github.com/leozoka0506/html-udemy-projects]
-🔹 [Projeto de API para eventos](https://github.com/leozoka0506/simoldes-app.git)
-🔹 [Projeto Aplicativo Simoldes]([link-do-repositorio](https://github.com/leozoka0506/simoldes-app))  
- 
+
+🔹 [Estudos de Desenvolvimento WEB](https://github.com/leozoka0506/html-udemy-projects)  
+🔹 [Projeto de API para eventos](https://github.com/leozoka0506/simoldes-app)  
+🔹 [Projeto Aplicativo Simoldes](https://github.com/leozoka0506/simoldes-app)  
 
 ---
 
