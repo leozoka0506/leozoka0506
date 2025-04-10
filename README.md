@@ -28,7 +28,6 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou f
 ## 📫 Onde me encontrar
 
 - **LinkedIn:** [linkedin.com/in/leonardo-wojcik-b3967b268](https://www.linkedin.com/in/leonardo-wojcik-b3967b268/)
-- **GitHub:** [github.com/leozoka0506](https://github.com/leozoka0506)
 
 Vamos conectar e trocar ideias! 🚀
 
