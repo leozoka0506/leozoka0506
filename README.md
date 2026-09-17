@@ -19,9 +19,9 @@ Sou apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou f
 ---
 ## 📌 Projetos Recentes
 
-🔹 [Projeto de Machine learning](https://github.com/leozoka0506/TECH3)
+🔹 [Projeto de Machine learning](https://github.com/leozoka0506/TECH3)  
 🔹 [Projeto de pipeline GoogleCloud](https://github.com/leozoka0506/TECH2)  
-🔹 [Projeto de pipeline Microsoft Azure](https://github.com/leozoka0506/tech2tutors-pipeline) 
+🔹 [Projeto de pipeline Microsoft Azure](https://github.com/leozoka0506/tech2tutors-pipeline)  
 
 ---
 
