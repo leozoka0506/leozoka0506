@@ -159,12 +159,13 @@ Projeto com foco em integração e processamento de dados utilizando **Microsoft
 
 ---
 
-## ✦ estatísticas
+## ✦ atividade no github
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leozoka0506&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozoka0506&layout=compact&theme=tokyonight&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=leozoka0506&theme=github-compact&hide_border=true"
+/>
 
 </div>
 
