@@ -171,13 +171,13 @@ Projeto com foco em integração e processamento de dados utilizando **Microsoft
 
 ---
 
-## ✦ vamos conversar?
+## ✦ atividade no github
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/leonardo-wojcik-b3967b268/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leozoka0506&theme=github_dark"
+/>
 
 </div>
 
