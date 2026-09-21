@@ -72,28 +72,28 @@ Atualmente, meu foco principal está em:
 
 ### 🐍 Python & Dados
 
-| Tecnologia | Nível |
+| Tecnologia | Familiaridade |
 |-----------|-------|
-| Python | ██████████ |
-| SQL | ████████░░ |
-| Pandas | ████████░░ |
-| NumPy | ███████░░░ |
-| Matplotlib | ███████░░░ |
-| Machine Learning | ██████░░░░ |
+| Python | ███████░░░ |
+| SQL | ██████░░░░ |
+| Pandas | ██████░░░░ |
+| NumPy | █████░░░░░ |
+| Matplotlib | █████░░░░░ |
+| Machine Learning | ████░░░░░░ |
 
 </td>
 <td valign="top" width="50%">
 
-### ☁️ Cloud & Banco de Dados
+### ☁️ Cloud & Bancos
 
-| Tecnologia | Nível |
+| Tecnologia | Familiaridade |
 |-----------|-------|
-| PostgreSQL | ███████░░░ |
-| MySQL | ███████░░░ |
-| MongoDB | ██████░░░░ |
-| Google Cloud | █████░░░░░ |
-| Microsoft Azure | █████░░░░░ |
-| Git / GitHub | ████████░░ |
+| PostgreSQL | █████░░░░░ |
+| MySQL | █████░░░░░ |
+| MongoDB | ████░░░░░░ |
+| Google Cloud | ███░░░░░░░ |
+| Microsoft Azure | ███░░░░░░░ |
+| Git / GitHub | ██████░░░░ |
 
 </td>
 </tr>
