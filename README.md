@@ -1,111 +1,189 @@
-# 👋 Olá, eu sou o Leonardo Wojcik
+<div align="center">
 
-🎓 Formado em **Engenharia de Software**  
-🐍 Focado em **Python e Dados**  
-📊 Interessado em **Análise de Dados, Machine Learning e Engenharia de Dados**  
-☁️ Conhecimentos em **Google Cloud Platform e Microsoft Azure**
+# Leonardo Wojcik
 
----
+### **Python • Dados • Análise de Dados • Machine Learning**
 
-## 👨‍💻 Sobre mim
+<br>
 
-Sou formado em Engenharia de Software e atualmente direciono meus estudos e projetos para a área de **Dados**, utilizando principalmente **Python**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=Focado+em+Python+e+Dados;Estudando+An%C3%A1lise+de+Dados+e+Machine+Learning;Conhecimentos+em+Google+Cloud+e+Microsoft+Azure" alt="Typing SVG" />
 
-Tenho interesse em transformar dados brutos em informações úteis por meio de análise, tratamento, automação e visualização de dados.
+<br>
 
-Tenho desenvolvido projetos envolvendo **Machine Learning, pipelines de dados e serviços em nuvem**, buscando evoluir principalmente em Python, SQL e tecnologias relacionadas ao ecossistema de dados.
+<img src="https://komarev.com/ghpvc/?username=leozoka0506&label=VISITAS%20AO%20PERFIL&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
----
-
-## 🚀 Atualmente estudando
-
-- 🐍 Python aplicado a Dados
-- 📊 Análise e tratamento de dados
-- 🧠 Machine Learning
-- 🗄️ SQL e bancos de dados
-- ⚙️ Pipelines e processamento de dados
-- ☁️ Conceitos de Cloud Computing
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## ✦ pouco sobre mim
 
-### 🐍 Linguagens
+Sou apaixonado por tecnologia e atualmente direciono meus estudos e projetos para a área de **Dados**, com foco principal em **Python**.
 
-- Python
-- SQL
-- JavaScript
+Gosto de transformar dados em informação útil através de:
+- análise e tratamento de dados
+- automação de processos
+- visualização de dados
+- pipelines de dados
+- aplicações práticas de machine learning
 
-### 📊 Dados
-
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
-
-### 🗄️ Bancos de Dados
-
-- PostgreSQL
-- MySQL
-- MongoDB
-
-### ☁️ Cloud
-
-Conhecimentos introdutórios em:
-
-- Google Cloud Platform
-- Microsoft Azure
-
-### 🔧 Ferramentas
-
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+Atualmente, meu foco principal está em:
+- **Python aplicado a Dados**
+- **Análise de Dados**
+- **Machine Learning**
+- **SQL**
+- **Pipelines de Dados**
+- **Cloud (Google Cloud e Microsoft Azure)**
 
 ---
 
-## 📌 Projetos em destaque
+## ✦ tecnologias
 
-### 🧠 Machine Learning
+<div align="center">
 
-Projeto utilizando técnicas de Machine Learning e análise de dados.
+### Linguagens e Dados
+
+<img src="https://skillicons.dev/icons?i=python,js,mysql,postgres,mongodb" />
+
+<br><br>
+
+### Bibliotecas e Estudos em Dados
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+<br><br>
+
+### Nuvem e Desenvolvimento
+
+<img src="https://skillicons.dev/icons?i=gcp,azure,git,github,vscode" />
+
+</div>
+
+---
+
+## ✦ meu stack
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+### 🐍 Python & Dados
+
+| Tecnologia | Nível |
+|-----------|-------|
+| Python | ██████████ |
+| SQL | ████████░░ |
+| Pandas | ████████░░ |
+| NumPy | ███████░░░ |
+| Matplotlib | ███████░░░ |
+| Machine Learning | ██████░░░░ |
+
+</td>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & Banco de Dados
+
+| Tecnologia | Nível |
+|-----------|-------|
+| PostgreSQL | ███████░░░ |
+| MySQL | ███████░░░ |
+| MongoDB | ██████░░░░ |
+| Google Cloud | █████░░░░░ |
+| Microsoft Azure | █████░░░░░ |
+| Git / GitHub | ████████░░ |
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✦ ferramentas que fazem parte do meu dia
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=yellow" />
+<img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=orange" />
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=red" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=blue" />
+<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=blue" />
+<img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=blue" />
+
+</div>
+
+---
+
+## ✦ projetos
+
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🧠 Projeto de Machine Learning
+
+Projeto voltado para estudo e aplicação de conceitos de **Machine Learning** e análise de dados.
 
 🔗 [Ver projeto](https://github.com/leozoka0506/TECH3)
 
----
+</td>
+<td width="33%" valign="top">
 
-### ☁️ Pipeline de Dados — Google Cloud
+### ☁️ Pipeline Google Cloud
 
-Projeto envolvendo construção e processamento de pipeline utilizando serviços da Google Cloud Platform.
+Projeto com foco em **pipeline de dados** utilizando recursos da **Google Cloud Platform**.
 
 🔗 [Ver projeto](https://github.com/leozoka0506/TECH2)
 
----
+</td>
+<td width="33%" valign="top">
 
-### ☁️ Pipeline de Dados — Microsoft Azure
+### ☁️ Pipeline Microsoft Azure
 
-Projeto voltado para processamento e integração de dados utilizando serviços do Microsoft Azure.
+Projeto com foco em integração e processamento de dados utilizando **Microsoft Azure**.
 
 🔗 [Ver projeto](https://github.com/leozoka0506/tech2tutors-pipeline)
 
----
+</td>
+</tr>
+</table>
 
-## 🎯 Objetivo profissional
-
-Busco desenvolver cada vez mais minhas habilidades em **Python e Dados**, com foco em áreas como:
-
-`Data Analytics` • `Data Engineering` • `Machine Learning` • `Python Development`
+</div>
 
 ---
 
-## 📫 Contato
+## ✦ estatísticas
 
-💼 **LinkedIn:**  
-[linkedin.com/in/leonardo-wojcik-b3967b268](https://www.linkedin.com/in/leonardo-wojcik-b3967b268/)
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=leozoka0506&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozoka0506&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-<p align="center">
-  Desenvolvendo soluções através de código e dados. 📊🐍
-</p>
+## ✦ vamos conversar?
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/leonardo-wojcik-b3967b268/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### **Python • Dados • Machine Learning • Cloud**
+
+</div>
